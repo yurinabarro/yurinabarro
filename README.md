@@ -1,7 +1,7 @@
 ### Hey! I'am Yuri Nabarro
 
 - 🔭 Currently working with Front-End
-- 🌱 Studying React and TypeScript
+- 🌱 Studying React, TypeScript and JAVA
 
 <div align="center">
   <a href="https://github.com/yurinabarro">
