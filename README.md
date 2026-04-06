@@ -1,6 +1,6 @@
 ### Hey! I'am Yuri Nabarro
 
-- 🔭 Currently working with Web Design and Front-End.
+- 🔭 Currently working with SaaS, System and Web Design.
 - 🌱 Studying everything.
 
 <div style="display: inline_block"><br>
